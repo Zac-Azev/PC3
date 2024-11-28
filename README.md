@@ -1,6 +1,6 @@
 # Node + Express Server
 
-Respositório para o projeto desenvolvido na disciplina de PC3-IFB 2024/2.
+Branch do repositório principal para o projeto desenvolvido na disciplina de PC3-IFB 2024/2, testando funcionalidades diferentes e uma outra forma de execução dos requisitos de sistema.
 
 ## Getting Started
 
