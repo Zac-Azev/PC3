@@ -5,7 +5,7 @@ const ActSchema = new mongoose.Schema(
           toDo: String,
           timeToDO: Date,
           timeToStop: Date,
-		      _idUser: {
+		      _idGrandpa: {
                  type: mongoose.Schema.Types.GrandpaId, 
                  required: true
               },
