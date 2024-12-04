@@ -1,4 +1,4 @@
-class IUserController{
+class IAbstractController{
 
    constructor(){}
     index(){}
@@ -8,4 +8,4 @@ class IUserController{
     update(){}
     search(){}
 }
-module.exports = IUserController;
+module.exports = IAbstractController;
