@@ -1,0 +1,5 @@
+(04/12/2024) 
+What to do today:
+1) verify and create all objects, controllers, interfaces and DAO's JSs
+  OBS: create abstract class for user, then extend it into, respectively, admins and regulars
+2) put all variables, prepare for what you gotta do
